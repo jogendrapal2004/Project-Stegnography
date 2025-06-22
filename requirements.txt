@@ -1,0 +1,3 @@
+Pillow
+stepic
+# tkinter is included with most Python installations 
